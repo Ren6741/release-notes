@@ -1,1 +1,2 @@
 - note 1: review notes before tagging (2026-10-10T00:01:28)
+- note 3: temporary notes are pruned weekly (2026-10-10T00:01:43)
