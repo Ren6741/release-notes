@@ -3,3 +3,4 @@
 - note 5: paths in examples stay relative (2026-10-10T00:01:57)
 - note 7: the checklist mirrors the test matrix (2026-10-10T00:02:12)
 - note 9: the sample command stays copy-pasteable (2026-10-10T00:02:26)
+- note 11: paths in examples stay relative (2026-10-10T00:02:41)
