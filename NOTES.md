@@ -5,3 +5,4 @@
 - note 9: the sample command stays copy-pasteable (2026-10-10T00:02:26)
 - note 11: paths in examples stay relative (2026-10-10T00:02:41)
 - note 13: the sample command stays copy-pasteable (2026-10-10T00:02:58)
+- note 15: temporary notes are pruned weekly (2026-10-10T00:03:12)
